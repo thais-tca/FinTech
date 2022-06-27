@@ -1,0 +1,96 @@
+
+/*index.html*/
+body {
+    background-color: rgb(16, 16, 37);
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.TITLE-PAGE {
+    font-weight: bold;
+    text-indent: 42px;
+    
+    font-size: 50px;
+    color: #ffffff
+}
+
+
+.TEXT-ITEN {
+
+    text-align: justify;
+    position: relative; top: 1px;
+    left: 150px
+
+    font-size: 30px;
+    color:azure
+}
+
+
+
+h2 {
+    text-align: center;
+ 
+    position: relative; top: 25px;
+    left: 600px
+
+    font-size: 60px;
+    color:azure  
+}
+
+
+h3{
+    color: azure;
+
+    text-align:initial;    
+}
+
+
+img {
+    
+    width: 1250px;
+    height: 150px;
+}
+
+img {
+    position: relative; top: 50px
+    left: 1000px
+}
+
+
+input {
+    background-color:silver
+    color:rgb(0, 0, 0)
+}
+
+.privacidade{
+    color: grey;
+    text-align: center;
+    position: relative; top:150px;
+    left: 5px;
+}
+
+/*cadastro.html*/
+a {
+    position: relative; top: 50px;
+    color:#ffffffc4
+    
+}
+
+a:visited{
+    color: #ffffff;
+}
+
+label {
+    color:azure
+
+}
+
+form {
+    color: azure;
+}
+
+.cadastro {
+    font-size: 20px;
+    color: azure;
+}
+/*login.html*/

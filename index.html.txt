@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FinTech</title>
+
+
+    <!-- link para o CSS -->
+<link rel="stylesheet" href="./imagnes/css/style.css">
+
+<!-- google fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+
+
+
+</head>
+<body>
+<h1 class="TITLE-PAGE">FinTech</h1>
+
+<figure>
+    <img src="./imagnes/BOLSA.jpg" atl="Imagem não carregou." </figure> <br>
+    <br>
+
+    
+    <p class="TEXT-ITEN">O início da sua liberdade esta aqui! Crie um planejamento financeiro, faça uma análise do seu orçamento pessoal, acompanhe as suas metas e objetivos, e desenvolva com qualidade a sua educação financeira.</p>
+    <br>
+    <h2>SALDO ATUAL R$0,00</h2>
+    <br>
+    <h3 class="receitas">Receitas R$0,00</h3>
+    <h3 cless="despesas">Despesas R$0,00</h3>
+    <br>
+    <h3>Adicionar receitas</h3>
+    <h3>Adicionar despesas</h3>
+    <br>
+    <h3>Renda fixa</h3>
+    <h3>Renda variável</h3>
+    
+    
+</body>
+</html>
+
+<p class="privacidade">Ao utilizar a FinTec você esta de acordo com os nossos termos de uso e política de privacidade.</p>.
+   

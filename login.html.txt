@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+
+
+    <link rel="stylesheet" href="./imagnes/css/style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet"
+
+</head>
+<body>
+    <h1 class="TITLE-PAGE">FinTech</h1>
+
+    <figure>
+        <img src="./imagnes/BOLSA.jpg"atl="Imagem não carregou."
+    </figure> <br>
+<br>
+    <form id="formulario" method="post" action="processaForm.php"
+    <label for="emailEnd">E-mail:</label>
+    <input type="email" name="emailEnd"><br>
+<br>
+    <label for="senha">Senha:</label>
+    <input type="password" name="senha"><br>
+
+    <a href="cadastro.html">Crie sua conta</a>
+
+</body>
+</html>

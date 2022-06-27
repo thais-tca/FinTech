@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">   
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro</title>
+
+    <link rel="stylesheet" href="./imagnes/css/style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <h1 class="TITLE-PAGE">FinTech</h1><figure>
+
+        <img src="./imagnes/BOLSA.jpg"atl="Imagem não carregou."
+    </figure><br>
+<br>
+
+    <p class="cadastro">Faça o seu cadastro:</p><br>
+
+
+    <form id="formulario" method="post" action="processaForm.php"
+    <label for="name" >Nome completo:</label>
+    <input type="text" id="nome" required><br>
+<br>
+    <label for="idade" >Idade:</label>
+    <input type="number" id="Idade"><br>
+<br>
+    <label for="emailEnd" >E-mail:</label>
+    <input type="email" id="emailEnd" ><br>
+<br>
+    <label for="estcivil">Estado civil:</label>
+    <select id="estcivil" name="estcivil">
+    <option value="S"select>Solteiro</option>
+    <option value="C">Casado</option>
+    <option value="V">Viúvo</option>
+    <option value="D">Divorciado</option></select><br>
+<br>
+    <label for="sexo">Sexo:</label>
+    <select id="sexo" name="sexo">
+    <option value="F">Feminimo</option>
+    <option value="M">Masculino</option>
+    <option value="O">Outros</option></select><br>
+<br>
+    <label for="newsletter"> Deseja receber nossos informativos no e-mail:</label>
+    <input type="radio" name="newsletter" value="Sim">Sim
+    <input type="radio" name="newsletter" value="Não">Não<br>
+<br>
+
+    <input type="submit" value="Enviar"
+
+</body>
+</html>
